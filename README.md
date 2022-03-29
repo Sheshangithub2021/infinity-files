@@ -1,5 +1,5 @@
 # infinity-files
-# it can make emornous folder & files but all empty 
+# it can make emornous folders & files but all empty & also can delete folders or files
 # HOW TO RUN THE SCRIPT 
 #step 1
 download the infinity-files.sh
