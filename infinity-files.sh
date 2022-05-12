@@ -1,7 +1,7 @@
 #!/bin/bash
-		# I tried a simple script for making more folders & files its not impressive but i love doing this 
+		
 declare -i a=0
-echo "For create directories press 1 & for delete press 11 / For create file press 2 & for press touch 22"
+echo "For create directories press 1 & for delete press 11 / For create file press 2 & for delete press  22"
 						#making folder
 read b
 if [ $b = 1 ]
